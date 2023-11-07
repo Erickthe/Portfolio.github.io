@@ -4,8 +4,9 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Novembre 2022
+client: TIM
+category: 3D
+description: Ce projet est basé sur le jeu Project Zomboid. C'est un abri qui sert à se défendre des zombies et de survivre dans ce monde post-apocalyptique. Donc il y a des med-kits, des provisions comme des boîtes de conserve de soupe de tomate, une batte de base-ball, etc. J'ai modélisé des boîtes de conserve et la batte de baseball. Maya, Unity.
+
 ---
