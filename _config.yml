@@ -4,7 +4,8 @@ email: erickouellette1105@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Voici mon portfolio"
 keywords: "your keywords, separated by commas"
-skills: "Développeur de jeux"
+skills: "Compétences:
+Maya, Da Vinci, Vcv Rack, Unity, Figma, Max "
 meta_author: Ouellette Érick
 
 # Google webmaster tools
@@ -32,7 +33,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Érick Ouellette 2023
+  copyright: Érick Ouellette 
   location: Location
   social: Around the Web
   credits: Credits
