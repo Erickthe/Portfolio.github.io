@@ -2,9 +2,9 @@
 layout: default
 modal-id: Fusion
 date: 2014-07-18
-img: cabin.png
+img: fusion.png
 alt: image-alt
 project-date: Mai 2022
 category: Montage Vidéo/Animation 2D
-description: Ce projet est basé sur un poème créé par des membres d'un autre programme nommé Fusion. Ce court métrage oû j'incarne le personnage démontre mon personnage qui travaille dans une centrale nucléaire et essaie de toute ses forces de stabiliser un réacteur nucléaire. Mon rôle dans ce projet était de jouer le personnage principal, de créer certaines illustrations et de les animer, et finalement faire une partie du montage vidéo. Les logiciels utilisés dans le cadre du projet étaient: Adobe Illustrator Adobe After effects Da Vinci
+description: Ce projet nommé Fusion, est basé sur un poème créé par des membres d'un autre programme. Ce court métrage oû j'incarne le personnage démontre mon personnage qui travaille dans une centrale nucléaire et essaie de toute ses forces de stabiliser un réacteur nucléaire. Mon rôle dans ce projet était de jouer le personnage principal, de créer certaines illustrations et de les animer, et finalement faire une partie du montage vidéo. Les logiciels utilisés dans le cadre du projet étaient: Adobe Illustrator Adobe After effects Da Vinci
 ---
