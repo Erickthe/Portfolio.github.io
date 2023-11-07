@@ -2,10 +2,10 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: koi_pond.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Mai 2023
+client: TIM
+category: 3d
+description: Ce projet est inspiré des koi ponds du japon et des rube goldberg machines qui réagissent en chaîne. J'ai fait l'eau, les billes, le poisson, l'eau et le bac qui contient le reste des élém,ents de la scène. Les logiciels utilisés sont Maya, reaper et Da Vinci.
 ---
