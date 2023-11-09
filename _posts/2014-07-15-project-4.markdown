@@ -7,5 +7,5 @@ alt: image-alt
 project-date: Octobre 2021
 client: TIM
 category: Photoshop
-description: Dans ce projet, l'objectif était de faire des autoportraits de moi-même mais j'ia décidé de faire quelque chose différent donc j'ai choisi des images de personnes sur unsplash. Ce projet a été fait avec photoshop.
+description: Dans ce projet, l'objectif était de faire des autoportraits de moi-même mais j'ai décidé de faire quelque chose différent donc j'ai choisi des images de personnes sur unsplash. Ce projet a été fait avec photoshop.
 ---
