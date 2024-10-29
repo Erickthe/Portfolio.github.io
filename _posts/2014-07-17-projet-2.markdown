@@ -1,1 +1,11 @@
-
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: Fusion.png
+alt: image-alt
+project-date: Mai 2024
+client: TIM
+category: Modélisation 3d
+description: Kigo est mon projet final de la technique. Dans notre équipe de 5, chaque personne avait des tâches différentes et j'ai eu celle de créer les modèles 3d du jeu. Je me suis inspiré du style visuel néon rétro des années 80 pour mes créations.   <a href="https://youtu.be/WNcLQIxaG8I?si=wOI4-IhBXHl5Dkjo"> Kigo</a>
+---
