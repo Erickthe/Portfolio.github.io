@@ -7,6 +7,6 @@ alt: image-alt
 project-date: Novembre 2022
 client: TIM
 category: 3D
-description: Ce projet est basé sur le jeu Project Zomboid. C'est un abri qui sert à se défendre des zombies et de survivre dans ce monde post-apocalyptique. Donc il y a des med-kits, des provisions comme des boîtes de conserve de soupe de tomate, une batte de base-ball, etc. J'ai modélisé des boîtes de conserve et la batte de baseball. Les logiciels utilisés sont Maya, Unity. https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e1d0a125-8168-4991-934e-fa75664159b1
+description: Ce projet est basé sur le jeu Project Zomboid. C'est un abri qui sert à se défendre des zombies et de survivre dans ce monde post-apocalyptique. Donc il y a des med-kits, des provisions comme des boîtes de conserve de soupe de tomate, une batte de base-ball, etc. J'ai modélisé des boîtes de conserve et la batte de baseball. Les logiciels utilisés sont Maya, Unity. [Abri de survie]([https://www.genome.gov/](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e1d0a125-8168-4991-934e-fa75664159b1)) 
 
 ---
