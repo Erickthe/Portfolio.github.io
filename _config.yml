@@ -34,7 +34,7 @@ color:
 # Footer settings
 footer:
   copyright: Érick Ouellette 
-  location: Location
+  location: Lieu
   social: 
   credits: Credits
 
@@ -42,6 +42,8 @@ footer:
 social:
   - title: github
     url: https://github.com/Erickthe
+  - title: linkedin
+    url: https://www.linkedin.com/in/%C3%A9rick-ouellette-aa4573293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 # Postal address (add as many lines as necessary)
 address:
@@ -49,7 +51,7 @@ address:
   - line: 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer est un thème Bootstrap open source et gratuit créé par <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
